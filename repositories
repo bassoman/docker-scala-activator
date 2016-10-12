@@ -1,3 +1,0 @@
-[repositories]
-  my-maven-proxy-releases: http://172.16.238.10:8081/repository/maven-central/
-  my-ivy-proxy-releases: http://172.16.238.10:8081/ivy-releases/, [organization]/[module]/(scala_[scalaVersion]/)(sbt_[sbtVersion]/)[revision]/[type]s/[artifact](-[classifier]).[ext]
